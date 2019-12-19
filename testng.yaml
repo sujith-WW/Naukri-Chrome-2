@@ -1,0 +1,11 @@
+name: Suite
+configFailurePolicy: skip
+tests:
+  - name: Test
+    classes:
+      - com.Testcases.Naukri_ValidateLoginFunctionality
+      - com.Base.DriverInstance
+      - com.Base.DriverInstanceforlogin
+      - com.Datagenerator.DataGenerator
+      - com.Datagenerator.DataGeneratorsforRegistration
+

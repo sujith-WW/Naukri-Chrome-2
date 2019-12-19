@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.Testcases.Naukri_ValidateLoginFunctionality"/>
+      <class name="com.Base.DriverInstance"/>
+      <class name="com.Base.DriverInstanceforlogin"/>
+      <class name="com.Datagenerator.DataGenerator"/>
+      <class name="com.Datagenerator.DataGeneratorsforRegistration"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77190" started-at="2020-01-02T09:33:22Z" finished-at="2020-01-02T09:34:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77190" started-at="2020-01-02T09:33:22Z" finished-at="2020-01-02T09:34:39Z">
+      <class name="com.Testcases.Naukri_ValidateLoginFunctionality">
+        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="21591" started-at="2020-01-02T09:33:25Z" finished-at="2020-01-02T09:33:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstances -->
+        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="16986" started-at="2020-01-02T09:33:46Z" data-provider="Excell314" finished-at="2020-01-02T09:34:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sayhitosujith@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[samanvitha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E:\\Winwire\\Builds\\NaukriChrome\\TestDatas\\UpdatedResume_selenium.docx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Naukri_Login -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1003" started-at="2020-01-02T09:34:03Z" finished-at="2020-01-02T09:34:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Naukri_Login status=SUCCESS method=Naukri_ValidateLoginFunctionality.Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="16660" started-at="2020-01-02T09:34:04Z" finished-at="2020-01-02T09:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstances -->
+        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="16847" started-at="2020-01-02T09:34:21Z" data-provider="Excell314" finished-at="2020-01-02T09:34:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sujithreddy1991@aol.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[samanvitha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[E:\\Winwire\\Builds\\NaukriChrome\\TestDatas\\UpdatedResume_ManualTesting.docx]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Naukri_Login -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1001" started-at="2020-01-02T09:34:38Z" finished-at="2020-01-02T09:34:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Naukri_Login status=SUCCESS method=Naukri_ValidateLoginFunctionality.Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Testcases.Naukri_ValidateLoginFunctionality -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

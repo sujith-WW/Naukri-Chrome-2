@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="77190" started-at="2020-01-02T09:33:22Z" finished-at="2020-01-02T09:34:39Z">
+  <suite name="Suite" duration-ms="161158" started-at="2020-01-09T05:35:10Z" finished-at="2020-01-09T05:37:51Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="77190" started-at="2020-01-02T09:33:22Z" finished-at="2020-01-02T09:34:39Z">
+    <test name="Test" duration-ms="161158" started-at="2020-01-09T05:35:10Z" finished-at="2020-01-09T05:37:51Z">
       <class name="com.Testcases.Naukri_ValidateLoginFunctionality">
-        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="21591" started-at="2020-01-02T09:33:25Z" finished-at="2020-01-02T09:33:46Z">
+        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="64499" started-at="2020-01-09T05:35:31Z" finished-at="2020-01-09T05:36:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverInstances -->
-        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="16986" started-at="2020-01-02T09:33:46Z" data-provider="Excell314" finished-at="2020-01-02T09:34:03Z">
+        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="28630" started-at="2020-01-09T05:36:35Z" data-provider="Excell314" finished-at="2020-01-09T05:37:04Z">
           <params>
             <param index="0">
               <value>
@@ -32,7 +32,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Naukri_Login -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1003" started-at="2020-01-02T09:34:03Z" finished-at="2020-01-02T09:34:04Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1003" started-at="2020-01-09T05:37:04Z" finished-at="2020-01-09T05:37:05Z">
           <params>
             <param index="0">
               <value>
@@ -43,11 +43,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="16660" started-at="2020-01-02T09:34:04Z" finished-at="2020-01-02T09:34:21Z">
+        <test-method status="PASS" signature="initiateDriverInstances()[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="initiateDriverInstances" is-config="true" duration-ms="23988" started-at="2020-01-09T05:37:05Z" finished-at="2020-01-09T05:37:29Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initiateDriverInstances -->
-        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="16847" started-at="2020-01-02T09:34:21Z" data-provider="Excell314" finished-at="2020-01-02T09:34:38Z">
+        <test-method status="PASS" signature="Naukri_Login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="Naukri_Login" duration-ms="21456" started-at="2020-01-09T05:37:29Z" data-provider="Excell314" finished-at="2020-01-09T05:37:50Z">
           <params>
             <param index="0">
               <value>
@@ -68,7 +68,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Naukri_Login -->
-        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1001" started-at="2020-01-02T09:34:38Z" finished-at="2020-01-02T09:34:39Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.Testcases.Naukri_ValidateLoginFunctionality@34c4973]" name="tearDown" is-config="true" duration-ms="1003" started-at="2020-01-09T05:37:50Z" finished-at="2020-01-09T05:37:51Z">
           <params>
             <param index="0">
               <value>
